@@ -1,0 +1,285 @@
+.kala {
+    background-color: rgba(211, 219, 224, 0.938);
+    border: 1px solid rgb(0, 0, 0);
+}
+
+.caropara {
+    margin-top: -500px;
+    color: white;
+}
+.caroh1{
+    font-size: 60px;
+}
+
+.but1 {
+    background-color: rgb(0, 170, 255);
+    border: 2px solid rgb(0, 170, 255);
+    color: aliceblue;
+    border-radius: 32px;
+    height: 30px;
+    width: 120px;
+}
+
+.but1:hover {
+    background-color: rgba(0, 255, 255, 0.411);
+
+}
+
+.but2 {
+    background-color: rgba(0, 170, 255, 0);
+    border: 2px solid rgb(0, 170, 255);
+    color: rgb(0, 170, 255);
+    border-radius: 32px;
+    height: 30px;
+    width: 120px;
+}
+
+.but2:hover {
+    background-color: rgba(0, 136, 255, 0.397);
+
+}
+
+.rightboxpg2 {
+    height: 50px;
+    width: 550px;
+    background-color: rgba(0, 255, 255, 0);
+    margin-top: 100px;
+
+}
+
+.acodibut {
+    height: 30px;
+    width: 30px;
+}
+
+.iconbar {
+    height: 150px;
+    width: 100%;
+    background-color: rgb(243, 246, 255);
+    margin-top: 100px;
+}
+
+.icon-1 {
+    height: 50px;
+    width: 50px;
+    background-color: rgb(0, 170, 255);
+    margin-left: 220px;
+    border-radius: 1330px;
+    padding-top: 3px;
+    padding-left: 9px;
+    margin-top: 50px;
+}
+
+.iconame {
+    margin-left: 20px;
+    padding-top: 20px;
+}
+
+span {
+    color: rgb(0, 170, 255);
+
+}
+
+.page2h1 {
+    text-align: center;
+
+}
+
+.page2p1 {
+    text-align: center;
+
+}
+
+.page2h3 {
+    font-size: 20px;
+    text-align: center;
+}
+
+.chidpara1 {
+    text-align: center;
+}
+
+.hafcircl {
+    margin-left: 90px;
+    height: 80px;
+    width: 60px;
+    background-color: rgb(169, 226, 255);
+    border-radius: 1500px;
+}
+
+.childbox1 {
+    height: 200px;
+    width: 300px;
+    background-color: rgba(0, 255, 255, 0);
+    margin-left: 120px;
+    margin-top: 40px;
+}
+
+.rightfilingbox {
+    height: 500px;
+    width: 100%;
+    background-color: rgb(216, 215, 215);
+}
+
+.rightfilingboxh1 {
+    font-size: 25px;
+    margin-top: 30px;
+    margin-left: 35px;
+}
+
+.rightfilingboxp {
+    margin-left: 35px;
+}
+
+.h5grph {
+    margin-left: 35px;
+    font-size: 15px;
+}
+
+.progress {
+    width: 300px;
+    margin-left: 35px;
+}
+
+.imgbox-1 {
+    display: x;
+    margin-left: 20px;
+    position: relative;
+    transition-property: background-color, transform, bottom;
+    transition-duration: .1s;
+    transition-timing-function: ease-in-out;
+    transition-delay: 0s;
+
+}
+.imgbox-1:hover{
+    background-color: aliceblue;
+    transform: scale(1s);
+    bottom: 3px;
+}
+
+.imgbox-1-H1 {
+    text-align: center;
+
+}
+
+.imgbox-0 {
+    margin-left: 300px;
+    position: relative;
+    transition-property: background-color, transform, bottom;
+    transition-duration: .1s;
+    transition-timing-function: ease-in-out;
+    transition-delay: 0s;
+}
+
+.imgbox-0:hover {
+    background-color: rgba(64, 92, 116, 0);
+    transform: scale(1s);
+    bottom: 3px;
+}
+
+.imgbox-1-H6 {
+    text-align: center;
+
+}
+
+.pricingbox-1 {
+    text-align: center;
+    height: 490px;
+    width: 250px;
+    background-color: rgba(0, 255, 255, 0);
+    box-shadow: 5px 5px 8px gray;
+    margin-left: 20px;
+}
+
+.pricingbox-1-h5 {
+    padding-top: 15px;
+    margin-top: -8px;
+}
+
+.pricingflex {
+    margin-left: 100px;
+}
+
+.leftcarosel {
+    margin-top: 30px;
+    width: 800px;
+}
+
+.insidimg {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdX-yf3tJRlf_HD7XkQaM4Aiu8sOcMIteTxQ&s);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.insidimg-h2 {
+    padding-top: 100px;
+    color: aliceblue;
+    text-align: center;
+}
+
+.insidimg-p {
+    text-align: center;
+    color: aliceblue;
+}
+
+.labelbox {
+    height: 500px;
+    width: 700px;
+    margin-left: 330px;
+    background-color: rgba(0, 255, 255, 0);
+}
+
+.placeholdersss {
+    border-radius: 33px;
+    width: 300px;
+    margin-left: 30px;
+}
+
+.head {
+    margin-left: 30px;
+    margin-top: 15px;
+}
+
+.placeholdersss-1 {
+    width: 600px;
+    border-radius: 33px;
+    width: 630px;
+    margin-left: 30px;
+}
+
+.placeholdersss-2 {
+    width: 600px;
+    border-radius: 33px;
+    width: 630px;
+    margin-left: 30px;
+    height: 130px;
+}
+
+
+.footrbox1 {
+    height: 350px;
+    width: 400px;
+    background-color: rgba(0, 0, 0, 0.897);
+    color: aliceblue;
+    padding-top: 100px;
+    padding-left: 100px;
+
+}
+
+.footrbox2 {
+    height: 350px;
+    width: 400px;
+    background-color: rgba(0, 0, 0, 0.897);
+    color: aliceblue;
+    padding-top: 100px;
+    padding-left: 100px;
+}
+
+.last {
+    background-color: black;
+}
+
+.lastpara {
+    color: aliceblue;
+    text-align: center;
+}
